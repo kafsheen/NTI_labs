@@ -1,1 +1,1 @@
-
+This folder implements parameterized **RAM/memory** modules (`memory` in `mem.v` and `mem` in `mem.sv`) with synchronous read/write behavior, plus a testbench (`mem_tb.v`) that drives random read/write/address/data transactions.

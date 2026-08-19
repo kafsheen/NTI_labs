@@ -1,1 +1,1 @@
-
+This folder contains the **full integrated datapath**: RAM storage (`mem.v`), PISO-based word serialization (`piso.v`), SIPO reconstruction (`sipo_reg.v`), and ALU processing (`alu.v`) wired in `system_top.v`; `system_top_tb.v` validates end-to-end operation from memory word to ALU result.
