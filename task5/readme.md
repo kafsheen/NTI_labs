@@ -1,1 +1,1 @@
-
+This folder builds a small **serial-command ALU system**: a 20-bit SIPO register captures serial control/data, and `alu_system.v` maps that parallel word into ALU enable, opcode, and operands for arithmetic/logic execution; `alu_mem_tb.v` tests both blocks together.

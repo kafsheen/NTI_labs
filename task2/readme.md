@@ -1,1 +1,1 @@
-
+This folder contains an 8-bit combinational **ALU** (`task_2.v`) with opcode-based operations (pass-through, add, AND, XOR, etc.) and an accompanying randomized testbench (`alu_tb.v`) that checks output behavior and `a_is_zero`.
